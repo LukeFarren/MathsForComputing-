@@ -60,7 +60,8 @@ There for the Highest Common Factor for both 660 and 288 equals twelve.
 
 ## **Part 2: A**
 
-**Arithmetic Sequence.**
+**Arithmetic Sequence.**  
+
 ![Formulae](https://github.com/LukeFarren/MathsForComputing-/blob/master/Formulae.png)
 
 a1=1  ,  d=1  ,  n=42
@@ -97,14 +98,14 @@ B) 5 mod 9
 5 x 2 mod 9 = 1  
 
 C) 7 mod 9  
-7 x 0 mod 9 = 0  
+7 x 0 mod 9 = 0    
 7 x 1 mod 9 = 7  
 7 x 2 mod 9 = 5  
 7 x 3 mod 9 = 3  
 7 x 4 mod 9 = 1  
 
-D) 16 mod 9
-16 x 0 mod 9 = 0  
+D) 16 mod 9  
+16 x 0 mod 9 = 0    
 16 x 1 mod 9 = 7  
 16 x 2 mod 9 = 5  
 16 x 3 mod 9 = 3  
