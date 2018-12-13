@@ -42,7 +42,7 @@ Therefore, the Highest Common Factor of both eight and twelve equals 4.
 
 Here is the application that was created using Euclid's algorithm calculating both the Lowest Common Multiple and the Highest Common Factor.
 
-[HotDogApplication](https://github.com/LukeFarren/MathsForComputing-/blob/master/HotDogApplication)
+[HotDogApplication](https://repl.it/@LucasVander_Bar/HCFLCM)
 
 ## **Part 1: B**
 
@@ -58,6 +58,7 @@ There for the Highest Common Factor for both 660 and 288 equals twelve.
 ## **Part 2: A**
 
 **Arithmetic Sequence.**
+
 ![Formulae](https://github.com/LukeFarren/MathsForComputing-/blob/master/Formulae.png)
 
 a1=1  ,  d=1  ,  n=42
