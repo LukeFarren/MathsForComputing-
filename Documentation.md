@@ -8,21 +8,18 @@ For part A both the Lowest Common Multiple and the Highest Common Factor has to 
 
 To find the Lowest Common Multiple we have to know the sequence of multiplication for both eight and twelve.
 
- **Multiples of Eight:**	
-1 x 8 = 8      
-2 x 8 = 16     
-3 x 8 = 24     
-4 x 8 = 32
+ **Multiples of Eight:**    	
+1 x 8 = 8        
+2 x 8 = 16       
+3 x 8 = 24       
+4 x 8 = 32  
 
 **Multiples of Twelve:**
 
-1 x 12 = 12
-
-2 x 12 = 24
-
-3 x 12 = 36
-
-4 x 12 = 48
+1 x 12 = 12  
+2 x 12 = 24  
+3 x 12 = 36  
+4 x 12 = 48  
 
 Therefore, the Lowest Common Multiple of both eight and twelve equals 24. 
 
