@@ -124,9 +124,27 @@ A) 0 mod 9
 0 x 7 mod 9 = 0  
 0 x 8 mod 9 = 0  
 
-B)6 mod 9
-Both the numbers 6 and 9 share the prime number 3.
+B)6 mod 9  
+6 x 0 mod 9 = 0    
+6 x 1 mod 9 = 6    
+6 x 2 mod 9 = 3    
+6 x 3 mod 9 = 0    
+6 x 4 mod 9 = 6  
+6 x 5 mod 9 = 3   
+6 x 6 mod 9 = 0    
+6 x 7 mod 9 = 6   
+6 x 8 mod 9 = 3    
 
-C)18 mod 9
-Both the numbers 18 an 9 share the prime number 3.
+
+C)18 mod 9    
+18 x 0 mod 9 = 0      
+18 x 1 mod 9 = 0      
+18 x 2 mod 9 = 0      
+18 x 3 mod 9 = 0      
+18 x 4 mod 9 = 0      
+18 x 5 mod 9 = 0      
+18 x 6 mod 9 = 0      
+18 x 7 mod 9 = 0      
+18 x 8 mod 9 = 0     
+
 
