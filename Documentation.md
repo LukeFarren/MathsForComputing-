@@ -86,39 +86,63 @@ S42 = 903
 **Multiplicative Inverse Sequences.** 
 
 A) 1 mod 9
+
 1 x 0 mod 9 = 0 
+
 1 x 1 mod 9 = 1
 
 B) 5 mod 9 
+
 5 x 0 mod 9 = 0
+
 5 x 1 mod 9 = 5
+
 5 x 2 mod 9 = 1
 
 C) 7 mod 9
+
 7 x 0 mod 9 = 0
+
 7 x 1 mod 9 = 7
+
 7 x 2 mod 9 = 5
+
 7 x 3 mod 9 = 3
+
 7 x 4 mod 9 = 1
 
 D) 16 mod 9
+
 16 x 0 mod 9 = 0
+
 16 x 1 mod 9 = 7
+
 16 x 2 mod 9 = 5
+
 16 x 3 mod 9 = 3
+
 16 x 4 mod 9 = 1
 
 ## Part 3: B
 
 A) 0 mod 9
+
 0 x 0 mod 9 = 0
+
 0 x 1 mod 9 = 0
+
 0 x 2 mod 9 = 0
+
 0 x 3 mod 9 = 0
+
 0 x 4 mod 9 = 0
+
 0 x 5 mod 9 = 0
+
 0 x 6 mod 9 = 0
+
 0 x 7 mod 9 = 0
+
 0 x 8 mod 9 = 0
 
 B)6 mod 9
