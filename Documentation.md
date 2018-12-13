@@ -15,9 +15,13 @@ To find the Lowest Common Multiple we have to know the sequence of multiplicatio
 4 x 8 = 32
 
 **Multiples of Twelve:**
+
 1 x 12 = 12
+
 2 x 12 = 24
+
 3 x 12 = 36
+
 4 x 12 = 48
 
 Therefore, the Lowest Common Multiple of both eight and twelve equals 24. 
@@ -27,13 +31,17 @@ To find the Highest Common Factor we have to factor both eight and twelve.
 **Factors of Eight:**
 
 1 x 8 = 8
+
 2 x 4 = 8
 
 1, 2, 4, 8
 
 **Factors of Twelve:**
+
 1 × 12 = 12
+
 2 × 6 = 12
+
 3 × 4 = 12
 
 1, 2, 3, 4, 6, 12
@@ -49,8 +57,11 @@ Here is the application that was created using Euclid's algorithm calculating bo
 Using Euclid's Algorithm to calculate the Highest Common Factor of both 660 an 288.  
 
 660 = (288 x 2) + 84
+
 288 = (84 x 3) + 36
+
 84 = (36 x 2) + 12
+
 36 = (12 x 3) + 0
 
 There for the Highest Common Factor for both 660 and 288 equals twelve. 
